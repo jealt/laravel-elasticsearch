@@ -7,6 +7,12 @@
         "search",
         "client"
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/elastic/elasticsearch-php.git"
+        }
+    ],
     "homepage": "https://github.com/cviebrock/laravel-elasticsearch",
     "license": "MIT",
     "authors": [
